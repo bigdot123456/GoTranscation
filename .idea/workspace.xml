@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae8d80df-ce8c-41ef-8818-57ded5d2ae50" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../GinDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoSpew/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoSpew/ctx.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoSpew/spw.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apiserver/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../synctest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../synctest/RwLock.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../synctest/checkhttp.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../synctest/oncerun.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../synctest/sync1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../synctest/synctest.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../synctest/timegroup.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webAssembler/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webAssembler/root.vugu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ass/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ass/main.pyproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aui/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aui/aui.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aui/aui.qmlproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../checkqt/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../checkqt/main.pyproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dialog.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dialog.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dialog.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../go/go.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../go/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../go/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../go/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../go/mainwindow.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../matrix_wallet_command/.idea/jsLinters/tslint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../matrix_wallet_command/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pyqttest/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pyqttest/main.pyproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../qt11/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../qt11/main.pyproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../qt111/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../qt111/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../qt111/main.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../qt111/qml.qrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../qt111/qt111.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../qt111/qtquickcontrols2.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../qttest/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../qttest/main.pyproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../rr/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../rr/main.pyproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../smartcontract/merify/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../smartcontract/merify/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ty/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ty/HomeForm.ui.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ty/Page1Form.ui.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ty/Page2Form.ui.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ty/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ty/main.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ty/qml.qrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ty/qtquickcontrols2.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ty/ty.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../accounts源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../a黄皮书里面出现的所有的符号索引.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../core-blockchain源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../core-bloombits源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../core-chain_indexer源码解析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../core-genesis创世区块源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../core-state-process源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../core-state源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../core-txlist交易池的一些数据结构源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../core-txpool交易池源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../core-vm-jumptable-instruction.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../core-vm-stack-memory源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../core-vm源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eth-bloombits和filter源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eth-downloader-peer源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eth-downloader-queue.go源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eth-downloader-statesync.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eth-downloader源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eth-fetcher源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ethdb源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eth以太坊协议分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eth源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../geth启动流程分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../go-ethereum源码阅读环境搭建.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hashimoto.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../miner挖矿部分源码分析CPU挖矿.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../node源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../p2p-database.go源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../p2p-dial.go源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../p2p-nat源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../p2p-peer.go源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../p2p-rlpx节点之间的加密链路.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../p2p-server.go源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../p2p-table.go源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../p2p-udp.go源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../p2p源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pos介绍proofofstake.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../rlp源码解析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../rpc源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../todo-p2p加密算法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../todo-pow一致性算法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../todo-用户账户-密钥-签名的关系.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../trie源码分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../以太坊fast sync算法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../以太坊测试网络Clique_PoA介绍.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../以太坊随机数生成方式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../封装的一些基础工具.md" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GoDepProject">
+    <integration-enabled>true</integration-enabled>
+    <exec-path>$USER_HOME$/gopath/bin/dep</exec-path>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/TxSend-Sign-Demos.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Plrz4DoV7H19LvqYvcOFVr7ZAS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build TxSend-Sign-Demos">
+    <configuration name="go build TxSend-Sign-Demos" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="TxSend-Sign-Demos" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="TxSend-Sign-Demos" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="TxSend-Sign-Demos" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/go/main.go" />
+      <package value="TxSend-Sign-Demos" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build TxSend-Sign-Demos" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <vendoring-mode>true</vendoring-mode>
+    <proxy>direct</proxy>
+  </component>
+</project>
