@@ -310,17 +310,17 @@ func main() {
 	//app.Run(iris.Addr("localhost:"+port), iris.WithoutServerError(iris.ErrServerClosed))
 
 	from := "MAN.CrsnQSJJfGxpb2taGhChLuyZwZJo"
-	to := "MAN.3qQQqfzBdwBjpauj6ght4G8E6o1yQ"
+	//to := "MAN.3qQQqfzBdwBjpauj6ght4G8E6o1yQ"
 	//check the validity of MAN address
 	isok := Accounts.CheckIsManAddress(from)
 	if !isok{
 		return
 	}
-	SendStringTx(from, to, 1, 21000, 18e9)
-	SendTx(from, to, 1, 21000, 18e9)
+	//SendStringTx(from, to, 1, 21000, 18e9)
+	//SendTx(from, to, 1, 21000, 18e9)
 	GetBalance(from)
 	CreatKeystore()
-	GenManAddress()
+	//GenManAddress()
 	GetBlockByNumber()
-	GetGasPrice()
+	//GetGasPrice()
 }
